@@ -18,7 +18,7 @@ p{
     color:white;
     padding: 150px;
     text-align: center;
-    margin-bottom: 150px;   
+    margin-bottom: 100px;   
 }
 .link-button{
     text-decoration: none;
@@ -26,5 +26,56 @@ p{
     padding: 10px 20px;
     color: white;
     border-radius: 5px;
+}
+.donation h1{
+    font-size: 30px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.donation p{
+    font-size: 18px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 20px;
+}
+.amount{
+    display: flex;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+h3{
+    font-weight: bold;
+    padding: 50px;
+    border: 2px solid rgb(242, 239, 239);
+    border-radius: 5px;
+    margin-right: 5%;
+    background-color: rgb(242, 239, 239);
+}
+#mark{
+    border: 3px solid tomato;
+    background-color: rgb(249, 165, 155);
+}
+h4{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: grey;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid grey;
+}
+.button{
+    background-image: linear-gradient(orange, red);
+    padding: 10px 20px;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-bottom: 50px;
+    border-radius: 5px;
+    border: 1px solid orange;
+    color: white;
 
 }
+
+
