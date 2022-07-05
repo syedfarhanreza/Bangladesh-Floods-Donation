@@ -2,3 +2,29 @@ body{
     font-family: 'Merriweather', serif;
     margin: 0;
 }
+.top{
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+h1{
+    font-size: 70px;
+}
+p{
+    font-size: 30px;
+}
+.top-details{
+    color:white;
+    padding: 150px;
+    text-align: center;
+    margin-bottom: 150px;   
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red );
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+
+}
