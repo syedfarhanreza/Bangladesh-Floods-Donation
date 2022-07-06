@@ -62,7 +62,7 @@ body{
         padding: 10px 20px;
         margin-left: 42%;
         margin-right: 40%;
-        margin-bottom: 20px;
+        margin-bottom: 30px;
         border-bottom: 1px solid gray;
     }
 
@@ -112,19 +112,19 @@ body{
 }
 .needs{
     display: flex;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+    padding:50px;
+    background-color:rgb(233, 231, 231);
 }
 .needs img{
     width: 100%;
-    padding-top: 20px;
 }
 .needs-item{
     width: 45%;
     margin-left: 5%;
     margin-right: 5%;
-    margin-bottom: 100px;
-    padding:  10px;
 }
 .update{
     text-align: center;
@@ -135,7 +135,8 @@ body{
 .email{
     border: none;
     background-color: lightgrey;
-    color: darkgray;
+    color: black;
+    font-weight: bold;
     padding: 10px;
     
 }
@@ -151,7 +152,7 @@ body{
     margin-left: 30%;
     margin-right: 30%;
     border: none;
-    background-color: rgb(255, 214, 219);
+    background-color:rgb(252, 240, 225);
 }
 footer{
     text-align: center;
@@ -163,10 +164,3 @@ footer h1{
     font-family: 'Permanent Marker', cursive;
     color: crimson;
 }
-
-
-
-
-
-
-
