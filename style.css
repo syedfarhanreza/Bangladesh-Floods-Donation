@@ -89,7 +89,7 @@ body{
 .flex-design{
     display: flex;
     width: 90%;
-    margin: 60px 90px 60px 90px;
+    margin: 5%;
     padding: 10px;
 }
 .flex-design p{
@@ -112,7 +112,8 @@ body{
 }
 .needs{
     display: flex;
-    margin-left: 8%;
+    
+    margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 100px;
     padding:50px;
