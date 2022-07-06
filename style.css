@@ -13,7 +13,7 @@ body{
     font-size: 70px;
 }
 .top p{
-    font-size: 30px;
+    font-size: 20px;
 }
 .top-details{
     color:white;
@@ -111,6 +111,22 @@ body{
 }
 #education{
     background-color: rgb(252, 240, 225);
+}
+.needs{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.needs img{
+    width: 100%;
+    padding-top: 20px;
+}
+.needs-item{
+    width: 45%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 100px;
+    padding:  10px;
 }
 
 
