@@ -126,6 +126,43 @@ body{
     margin-bottom: 100px;
     padding:  10px;
 }
+.update{
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 100px;
+}
+.email{
+    border: none;
+    background-color: lightgrey;
+    color: darkgray;
+    padding: 10px;
+    
+}
+#btn{
+    color: white;
+    font-weight: bold;
+    background-image: linear-gradient(orange,red);
+    border: none;
+    padding: 10px;
+}
+#email-box{
+    padding: 50px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: none;
+    background-color: rgb(255, 214, 219);
+}
+footer{
+    text-align: center;
+    padding: 2%;
+    background-color: black;
+    color: white;
+}
+footer h1{
+    font-family: 'Permanent Marker', cursive;
+    color: crimson;
+}
 
 
 
